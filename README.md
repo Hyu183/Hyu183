@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/jd1p"><img src="https://api.daily.dev/devcards/48667584636d4791b390993921ce514b.png?r=6u1" width="400" alt="Quang-Huy Tran's Dev Card"/></a>
+
 ![Hyu183's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyu183&count_private=true&show_icons=true&theme=codeSTACKr) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu183&layout=compact&theme=codeSTACKr)](https://github.com/Hyu183)
 
